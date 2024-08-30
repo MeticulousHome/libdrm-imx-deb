@@ -1,9 +1,8 @@
-libdrm (2.4.116-1) unstable; urgency=medium
+libdrm (2.4.116-1+toradex1) bookworm; urgency=medium
 
-  * New upstream release.
-  * symbols: Updated.
+  * New libdrm-imx release from Scarthgap.
 
- -- Timo Aaltonen <tjaalton@debian.org>  Mon, 16 Oct 2023 15:10:44 +0300
+ -- Leonardo Held <leonardo.held@toradex.com>  Fri, 30 Aug 2024 10:12:02 -0300
 
 libdrm (2.4.115-1) unstable; urgency=medium
 
